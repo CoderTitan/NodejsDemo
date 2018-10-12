@@ -1,0 +1,6 @@
+framework module Pods_NodeRequestDemo {
+  umbrella header "Pods-NodeRequestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
