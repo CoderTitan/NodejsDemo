@@ -20,6 +20,12 @@ class ViewController: UIViewController {
         
         dataArr = ["HTTP请求", "expressn模块的get请求", "expressn模块的post请求", "get带参数请求", "post带参数请求"]
         tableView.reloadData()
+        
+        
+        
+        NetworkTool.requestData(.get, URLString: "https://ifm.ximalaya.com/recsys-stream-query/recsys/daily/rec/load", parameters: ["device": "iPhone"]) { (result) in
+            print(result)
+        }
     }
 }
 

@@ -23,7 +23,7 @@ var jsonParser = bodyParse.json()
 
 
 // 5. 中间件: 把请求体参数 存放到request.body
-server.use('./post', jsonParser)
+server.use('/post', urlencoded)
 
 
 //6. 请求数据
@@ -31,7 +31,7 @@ server.use('./post', jsonParser)
 server.post('/post', function (request, response) {
     //解析post请求参数
     console.log(request.body)
-    response.send(request.body)
+    response.send('post带参数请求回来的数据')
 })
 
 

@@ -72,8 +72,9 @@ extension RequestViewController {
     
     /// post带参数请求
     fileprivate func postParamsRequest() {
-        NetworkTool.requestData(.post, URLString: "http://localhost:5050/post", parameters: ["name": "titan", "age": "10"]) { (data) in
-            print(data)
+        NetworkTool.requestString(.post, URLString: "http://192.168.2.39:5050/post", parameters: ["name": "titan", "age": "10"]) { (str) in
+            self.requestLabel.text = str
+            print(str)
         }
     }
 }
