@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b0da3e-a4d1-4858-a007-45fcc04b909e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo/RequestViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo/RequestViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeDemo/1-使用示例/6-post请求参数.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeDemo/1-使用示例/6-post请求参数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeDemo/2-express数据类型/1-数组.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeDemo/2-express数据类型/2-字典.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeDemo/2-express数据类型/3-自定义对象.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo.xcodeproj/xcuserdata/quanjunt.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo.xcodeproj/xcuserdata/quanjunt.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo.xcworkspace/xcuserdata/quanjunt.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo.xcworkspace/xcuserdata/quanjunt.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo.xcworkspace/xcuserdata/quanjunt.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeRequestDemo/NodeRequestDemo.xcworkspace/xcuserdata/quanjunt.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,79 +23,46 @@
     <session id="-204582262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="11" />
+          <entry key="js" value="18" />
           <entry key="json" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="11" />
+          <entry key="JavaScript" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="495" />
+          <entry key="js" value="832" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="495" />
+          <entry key="JavaScript" value="832" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/5-get请求参数.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/6-post请求参数.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../Quanjun/Titan课堂/课堂代码/03阶段/01/WebServer/06-expressPOST请求参数.js">
+        <entry file="file://$PROJECT_DIR$/NodeDemo/2-express数据类型/1-数组.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/2-express-server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/1-HTTP服务器.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="33" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="594">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -122,6 +94,9 @@
         <option value="$PROJECT_DIR$/NodeDemo/1-使用示例/5-get请求参数.js" />
         <option value="$PROJECT_DIR$/NodeDemo/1-使用示例/6-post请求参数.js" />
         <option value="$PROJECT_DIR$/../../../Quanjun/Titan课堂/课堂代码/03阶段/01/WebServer/06-expressPOST请求参数.js" />
+        <option value="$PROJECT_DIR$/NodeDemo/2-express数据类型/2-字典.js" />
+        <option value="$PROJECT_DIR$/NodeDemo/2-express数据类型/3-自定义对象.js" />
+        <option value="$PROJECT_DIR$/NodeDemo/2-express数据类型/1-数组.js" />
       </list>
     </option>
   </component>
@@ -142,9 +117,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1283" />
+    <option name="x" value="1285" />
     <option name="y" value="23" />
-    <option name="width" value="1277" />
+    <option name="width" value="1275" />
     <option name="height" value="1415" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -162,17 +137,6 @@
             <path>
               <item name="Nodejs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Nodejs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Nodejs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Nodejs" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Nodejs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Nodejs" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="1-使用示例" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,36 +163,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.06-expressPOST请求参数.js">
+  <component name="RunManager" selected="Node.js.3-自定义对象.js">
     <configuration name="06-expressPOST请求参数.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="06-expressPOST请求参数.js" working-dir="$PROJECT_DIR$/../../../Quanjun/Titan课堂/课堂代码/03阶段/01/WebServer">
       <method v="2" />
     </configuration>
-    <configuration name="1-HTTP服务器.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1-HTTP服务器.js" working-dir="$PROJECT_DIR$/NodeDemo/1-使用示例">
+    <configuration name="1-数组.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1-数组.js" working-dir="$PROJECT_DIR$/NodeDemo/2-express数据类型">
       <method v="2" />
     </configuration>
     <configuration name="2-express-server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="2-express-server.js" working-dir="$PROJECT_DIR$/NodeDemo/1-使用示例">
       <method v="2" />
     </configuration>
-    <configuration name="5-get请求参数.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="5-get请求参数.js" working-dir="$PROJECT_DIR$/NodeDemo/1-使用示例">
+    <configuration name="3-自定义对象.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3-自定义对象.js" working-dir="$PROJECT_DIR$/NodeDemo/2-express数据类型">
       <method v="2" />
     </configuration>
     <configuration name="6-post请求参数.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="6-post请求参数.js" working-dir="$PROJECT_DIR$/NodeDemo/1-使用示例">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.1-HTTP服务器.js" />
       <item itemvalue="Node.js.2-express-server.js" />
-      <item itemvalue="Node.js.5-get请求参数.js" />
       <item itemvalue="Node.js.6-post请求参数.js" />
       <item itemvalue="Node.js.06-expressPOST请求参数.js" />
+      <item itemvalue="Node.js.1-数组.js" />
+      <item itemvalue="Node.js.3-自定义对象.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.3-自定义对象.js" />
+        <item itemvalue="Node.js.1-数组.js" />
         <item itemvalue="Node.js.06-expressPOST请求参数.js" />
         <item itemvalue="Node.js.6-post请求参数.js" />
         <item itemvalue="Node.js.2-express-server.js" />
-        <item itemvalue="Node.js.1-HTTP服务器.js" />
-        <item itemvalue="Node.js.5-get请求参数.js" />
       </list>
     </recent_temporary>
   </component>
@@ -244,17 +208,19 @@
       <updated>1539324094065</updated>
       <workItem from="1539324101046" duration="9882000" />
       <workItem from="1539567663399" duration="2552000" />
+      <workItem from="1541571514758" duration="2228000" />
+      <workItem from="1541644447040" duration="283000" />
+      <workItem from="1541988221192" duration="1862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12434000" />
+    <option name="totallyTimeSpent" value="16807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1283" y="23" width="1277" height="1415" extended-state="0" />
-    <editor active="true" />
+    <frame x="1285" y="23" width="1275" height="1415" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18899521" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -287,31 +253,10 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/3-路由.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/4-中间件.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/2-express-server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/1-HTTP服务器.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -325,14 +270,56 @@
     <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/6-post请求参数.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../Quanjun/Titan课堂/课堂代码/03阶段/01/WebServer/06-expressPOST请求参数.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="180">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/1-HTTP服务器.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/3-路由.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeDemo/2-express数据类型/2-字典.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeDemo/2-express数据类型/3-自定义对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeDemo/1-使用示例/2-express-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeDemo/2-express数据类型/1-数组.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
         </state>
       </provider>
     </entry>
